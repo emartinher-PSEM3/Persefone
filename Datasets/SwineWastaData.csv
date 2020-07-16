@@ -1,0 +1,10 @@
+Components,Units,Sow Gestating,Sow Lactating,Boar,Piglets Nursery,Piglets Grow to finish
+Weight,lb/d-1000 AU,25,59,19,88,65
+Volume ,lb/d-1000 AU,0.41,0.97,0.3,1.4,1.1
+Moisture,%weight,90,90,90,90,90
+TS ,lb/d-1000 AU,2.5,5.9,1.9,10,6.5
+VS,lb/d-1000 AU,2.3,5.4,1.7,8.8,5.4
+BOD,lb/d-1000 AU,0.84,2,0.66,3.4,2.1
+N,lb/d-1000 AU,0.16,0.45,0.14,0.92,0.54
+P,lb/d-1000 AU,0.05,0.13,0.05,0.15,0.09
+K,lb/d-1000 AU,0.11,0.28,0.09,0.35,0.24
